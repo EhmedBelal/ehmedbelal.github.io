@@ -1,15 +1,15 @@
-title               : "Anas Iqbal"
-description         : "Portfolio of Anas Iqbal, Software Engineer (Gameplay) from Pakistan"
-url                 : "https://anasiqbal.github.io"
+title               : "Belal Ehmed"
+description         : "Belal Ehmed' portfolio, Indie game programmer"
+url                 : "https://ehmedbelal.github.io"
 logo                : /assets/images/AI-Icon.jpg
 
 author:
-  name              : Anas Iqbal
+  name              : Belal Ehmed
   avatar            : "/assets/images/bio-photo.jpeg"
   location          : "Islamabad - Pakistan"
-  email             : anasiqbal@outlook.com
-  twitter           : ianasiqbal
-  facebook          : anas.iqbal55
+  email             : belalehmed.propanol@gmail.com
+  twitter           : ehmed_belal
+  facebook          : belal.ehmed.7
   github            : anasiqbal
   linkedin          : anasiqbal55
   stackoverflow     : "1849539/anas-iqbal"
@@ -18,7 +18,7 @@ author:
   steam             : anasiqbal
 
 twitter:
-  username          : ianasiqbal
+  username          : Belal Ehmed
 facebook:
   username          :
   app_id            :
@@ -27,12 +27,12 @@ og_image            : # Open Graph/Twitter default site image
 
 social:
   type              : Person
-  name              : Anas Iqbal
+  name              : Belal Ehmed
   links:
-    - "https://www.facebook.com/anas.iqbal55"
-    - "http://www.twitter.com/ianasiqbal"
+    - "https://www.facebook.com/belal.ehmed.7"
+    - "http://www.twitter.com/ehmed_belal"
     - "https://www.linkedin.com/in/anasiqbal55"
-    - "https://github.com/anasiqbal"
+    - "https://github.com/EhmedBelal"
     - "http://stackoverflow.com/users/1849539/anas-iqbal"
     - "http://steamcommunity.com/id/anasiqbal"
     - "https://open.spotify.com/user/anasiqbal"
@@ -42,8 +42,8 @@ comments:
   discus: anasiqbal
 
 webmaster_verifications:
-  google: n73NqY4YkDgmZyZzCJk6U_61k7hN0qcPe3jM64OY90M
-  bing: 3ADDE9727FADDBB6F9B91DCC2ABF80C6
+  google: # n73NqY4YkDgmZyZzCJk6U_61k7hN0qcPe3jM64OY90M
+  bing: #3ADDE9727FADDBB6F9B91DCC2ABF80C6
 
 markdown: kramdown
 highlighter: rouge
