@@ -1,0 +1,26 @@
+---
+
+---
+
+<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+		{% include head.html %}
+	</head>
+	<body>
+		<div class="top-border"></div>
+
+		<div class="row">
+			{% include nav.html %}
+		</div>
+
+		<div class="row">
+			{{ content }}
+		</div>
+
+		<div class="row">
+		{% include footer.html %}
+		</div>
+		{% include scripts.html %}
+	</body>
+</html>
