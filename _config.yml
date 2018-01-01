@@ -6,15 +6,12 @@ logo                : /assets/images/AI-Icon.jpg
 author:
   name              : Belal Ehmed
   avatar            : "/assets/images/bio-photo.jpeg"
-  location          : "Islamabad - Pakistan"
   email             : belalehmed.propanol@gmail.com
   twitter           : ehmed_belal
   facebook          : belal.ehmed.7
   github            : EhmedBelal
   linkedin          : anasiqbal55
   stackoverflow     : "1849539/anas-iqbal"
-  spotify           : anasiqbal
-  udemy             : anas-iqbal-2
   steam             : anasiqbal
 
 twitter:
@@ -34,8 +31,6 @@ social:
     - "https://www.linkedin.com/in/anasiqbal55"
     - "https://github.com/EhmedBelal"
     - "http://stackoverflow.com/users/1849539/anas-iqbal"
-    #- "http://steamcommunity.com/id/anasiqbal"
-    #- "https://open.spotify.com/user/anasiqbal"
 
 comments:
   #discus: anasiqbal
