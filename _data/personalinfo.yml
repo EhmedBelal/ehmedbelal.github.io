@@ -1,15 +1,15 @@
 name            : Belal Ehmed
 avatar          : "/assets/images/bio-photo.jpeg"
-designation     : Indie game programmer.
-phone           : "+923435800318"
+designation     : Indie game programmer
+#phone           : "+923435800318"
 email           : belalehmed.propanol@gmail.com
-location        : "Islamabad - Pakistan"
-resume          : "/assets/files/resume.pdf"
+#location        : "Islamabad - Pakistan"
+#resume          : "/assets/files/resume.pdf"
 facebook        : "https://www.facebook.com/belal.ehmed.7"
 twitter         : "http://www.twitter.com/ehmed_belal"
 linkedin        : "https://www.linkedin.com/in/belal-ehmed-0b91b148/"
 github          : "https://github.com/EhmedBelal"
 stackoverflow   : "https://stackoverflow.com/users/5320943/cerberus"
-steam           : "http://steamcommunity.com/id/anasiqbal"
-spotify         : "https://open.spotify.com/user/anasiqbal"
-udemy           : "https://www.udemy.com/user/anas-iqbal-2"
+#steam           : "http://steamcommunity.com/id/anasiqbal"
+#spotify         : "https://open.spotify.com/user/anasiqbal"
+#udemy           : "https://www.udemy.com/user/anas-iqbal-2"
