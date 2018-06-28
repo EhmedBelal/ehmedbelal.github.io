@@ -1,10 +1,10 @@
-title               : "Belal Ehmed"
-description         : "Belal Ehmed's portfolio, Indie game developer"
+title               : "Bilal Ahmed"
+description         : "Bilal Ahmed's portfolio, Game Developer(Programmer)"
 url                 : "https://ehmedbelal.github.io"
-logo                : /assets/images/AI-Icon.jpg
+logo                : /assets/images/Bmann-Icon.jpg
 
 author:
-  name              : Belal Ehmed
+  name              : Bilal Ahmed
   avatar            : "/assets/images/bio-photo.jpg"
   email             : belalehmed.propanol@gmail.com
   twitter           : ehmed_belal
@@ -14,9 +14,9 @@ author:
   stackoverflow     : "5320943/cerberus"
  # steam             : anasiqbal
 
-twitter:
-  username          : Belal Ehmed
-facebook:
+  twitter           : 
+  username          : Bilal Ahmed
+  facebook          :
   username          :
   app_id            :
   publisher         :
@@ -24,7 +24,7 @@ og_image            : # Open Graph/Twitter default site image
 
 social:
   type              : Person
-  name              : Belal Ehmed
+  name              : Bilal Ahmed
   links:
     - "https://www.facebook.com/belal.ehmed.7"
     - "http://www.twitter.com/ehmed_belal"
