@@ -1,6 +1,6 @@
 ---
 layout:			post
-title:			"A* Pathfinding"
+title:			"Audio Spectrum"
 logo:			"A*/icon.jpg"
 excerpt:		"This is temp description."
 role:			"--"
