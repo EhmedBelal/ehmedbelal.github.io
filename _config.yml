@@ -72,6 +72,9 @@ collections:
   sideportfolio:
     output: true
     permalink: /:collection/:path/
+  test:
+    output: true
+    permalink: /:collection/:path/
 
 include:
   - _pages
