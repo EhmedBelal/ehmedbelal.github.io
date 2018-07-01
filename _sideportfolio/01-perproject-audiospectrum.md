@@ -1,0 +1,28 @@
+---
+layout:			post
+title:			"Audio Spectrum"
+date:			2016-04-06
+logo:			"01-perproject-audio-spectrum/icon.jpeg"
+description:	"This is temp description."
+role:			"Software Engineer"
+organization:	"Binex Solutions (Pvt.) Ltd."
+ios:			"https://itunes.apple.com/tr/app/id922404744"
+android:		"https://play.google.com/store/apps/details?id=com.readablenglish.ChooseOrLose"
+
+screenshots:
+- 01-perproject-audio-spectrum/01.jpeg
+- 01-perproject-audio-spectrum/02.jpeg
+- 01-perproject-audio-spectrum/03.jpeg
+tag:
+- Unity 3D
+- C#
+- NGUI
+- iOS
+- Soap Web-service
+- Android
+comments:		true
+---
+
+* Implement some minor changes in UI.
+* Fixed bugs, both major and minor, in gameplay (app formerly developed by another developer).
+* Performed several Plugin Integrations (i.e. Flurry Analytics, Android/ iOS In-Apps).
