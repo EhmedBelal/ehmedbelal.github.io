@@ -2,18 +2,18 @@
 layout:			post
 title:			"Dialogue System"
 date:			2016-04-06
-logo:			"03-perproject-dialoguesystem/icon.jpeg"
+logo:			"ECOR3D/icon.jpeg"
 description:	"This is temp description."
 role:			"Software Engineer"
 organization:	"Binex Solutions (Pvt.) Ltd."
 ios:			"https://itunes.apple.com/pk/app/id1099165416"
 
 screenshots:
-- 03-perproject-dialoguesystem/01.jpeg
-- 03-perproject-dialoguesystem/02.jpeg
-- 03-perproject-dialoguesystem/03.jpeg
-- 03-perproject-dialoguesystem/04.jpeg
-- 03-perproject-dialoguesystem/05.jpeg
+- ECOR3D/01.jpeg
+- ECOR3D/02.jpeg
+- ECOR3D/03.jpeg
+- ECOR3D/04.jpeg
+- ECOR3D/05.jpeg
 tag:
 - Unity 3D
 - C#
