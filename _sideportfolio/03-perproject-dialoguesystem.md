@@ -1,7 +1,7 @@
 ---
 layout:			post
 title:			"Audio Spectrum"
-logo:			"A*/icon.jpg"
+logo:			"03-perproject-dialoguesystem/icon.jpg"
 excerpt:		"This is temp description."
 role:			"--"
 organization:	"--"
