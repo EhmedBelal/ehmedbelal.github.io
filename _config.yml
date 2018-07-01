@@ -12,7 +12,7 @@ author:
   github            : EhmedBelal
   linkedin          : belal-ehmed-0b91b148
   stackoverflow     : "5320943/cerberus"
- # steam             : anasiqbal
+  steam             : anasiqbal
 
   twitter           : 
   username          : Bilal Ahmed
@@ -59,7 +59,6 @@ kramdown:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jemoji
 
 # Collections
 collections:
@@ -70,9 +69,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   sideportfolio:
-    output: true
-    permalink: /:collection/:path/
-  test:
     output: true
     permalink: /:collection/:path/
 
