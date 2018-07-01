@@ -2,18 +2,18 @@
 layout:			post
 title:			"Adventure Game"
 date:			2016-04-06
-logo:			"02-perproject-parametericbeziercurves-data/icon.jpeg"
+logo:			"04-perproject-adventuregame-data/icon.jpeg"
 description:	"This is temp description."
 role:			"Software Engineer"
 organization:	"Binex Solutions (Pvt.) Ltd."
 ios:			"https://itunes.apple.com/pk/app/id1099165416"
 
 screenshots:
-- ECOR3D/01.jpeg
-- ECOR3D/02.jpeg
-- ECOR3D/03.jpeg
-- ECOR3D/04.jpeg
-- ECOR3D/05.jpeg
+- 04-perproject-adventuregame-data/01.jpeg
+- 04-perproject-adventuregame-data/02.jpeg
+- 04-perproject-adventuregame-data/03.jpeg
+- 04-perproject-adventuregame-data/04.jpeg
+- 04-perproject-adventuregame-data/05.jpeg
 tag:
 - Unity 3D
 - C#
