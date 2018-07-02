@@ -4,8 +4,8 @@ title:			"Audio Spectrum"
 date:			2016-01-01
 logo:			"01-perproject-audio-spectrum-data/icon.jpg"
 description:	"This is temp description."
-role:			"Software Engineer"
-organization:	"Binex Solutions (Pvt.) Ltd."
+role:			"--"
+organization:	"--"
 
 screenshots:
 - 01-perproject-audio-spectrum-data/01.jpg
@@ -18,6 +18,4 @@ tag:
 comments:		true
 ---
 
-* .
-* Fixed bugs, both major and minor, in gameplay (app formerly developed by another developer).
-* Performed several Plugin Integrations (i.e. Flurry Analytics, Android/ iOS In-Apps).
+Quantized the main audio listener's input audio wave and mapped each quanta  to game ojbects' scale transform.
