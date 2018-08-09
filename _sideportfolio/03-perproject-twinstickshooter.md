@@ -1,16 +1,14 @@
 ---
 layout:			post
-title:			"Twin-stick Shooter"
+title:			"Twin-stick Shooter(In-progress)"
 date:			2016-01-01
-logo:			"02-perproject-2dtopdownrpg-data/icon.jpg"
+logo:			"03-perproject-twinstickshooter-data/icon.jpg"
 description:	"This is temp description."
 role:			"--"
 organization:	"--"
 
 screenshots:
-- 02-perproject-2dtopdownrpg-data/01.jpg
-- 02-perproject-2dtopdownrpg-data/02.jpg
-- 02-perproject-2dtopdownrpg-data/03.jpg
+- 03-perproject-twinstickshooter-data/01.jpg
 tag:
 - Unity 3D
 - C#
