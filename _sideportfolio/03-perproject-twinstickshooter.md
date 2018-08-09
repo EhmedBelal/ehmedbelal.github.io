@@ -2,7 +2,7 @@
 layout:			post
 title:			"Twin-stick shooter(In-progress)"
 date:			2016-01-01
-logo:			"03-perproject-twinstickshooter-data/icon.jpg"
+logo:			"03-perproject-twinstickshooter-data/icon.jpeg"
 description:	"This is temp description."
 role:			"--"
 organization:	"--"
