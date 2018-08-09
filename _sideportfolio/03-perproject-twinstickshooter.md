@@ -1,6 +1,6 @@
 ---
 layout:			post
-title:			"Twin-stick Shooter(In-progress)"
+title:			"Twin-stick shooter(In-progress)"
 date:			2016-01-01
 logo:			"03-perproject-twinstickshooter-data/icon.jpg"
 description:	"This is temp description."
@@ -16,4 +16,4 @@ tag:
 comments:		true
 ---
 
-* Replicating the old classic twin-stick shooter.
+* Replicating classic twin-stick shooter
